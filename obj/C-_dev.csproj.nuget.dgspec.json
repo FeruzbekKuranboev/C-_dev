@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proggggg\\C-_dev\\C-_dev.csproj": {}
+    "C:\\Users\\user\\C-_dev\\C-_dev.csproj": {}
   },
   "projects": {
-    "C:\\proggggg\\C-_dev\\C-_dev.csproj": {
+    "C:\\Users\\user\\C-_dev\\C-_dev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proggggg\\C-_dev\\C-_dev.csproj",
+        "projectUniqueName": "C:\\Users\\user\\C-_dev\\C-_dev.csproj",
         "projectName": "C-_dev",
-        "projectPath": "C:\\proggggg\\C-_dev\\C-_dev.csproj",
+        "projectPath": "C:\\Users\\user\\C-_dev\\C-_dev.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\proggggg\\C-_dev\\obj\\",
+        "outputPath": "C:\\Users\\user\\C-_dev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
